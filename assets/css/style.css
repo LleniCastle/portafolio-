@@ -164,3 +164,24 @@ h6 {
 .contactame {
     text-align: center;
 }
+
+
+#seccion-quien-soy h2 {
+    /* Estilos para el título h2 dentro de la sección Quién Soy */
+    color: purple
+}
+
+#seccion-quien-soy p {
+    /* Estilos para los párrafos p dentro de la sección Quién Soy */
+    /* Puedes agregar aquí los estilos específicos que desees */
+    color: palevioletred
+}
+div h3{
+    color: #4e3798;
+    font-size: 22px;
+}
+h3.display-6 {
+    font-size: 40px; /* Cambia el tamaño de fuente de (mis proyectos) a tu preferencia */
+    color: blanchedalmond; /* Cambia el color a tu preferencia */
+    text-align: center; /*texto centrado*/
+}
